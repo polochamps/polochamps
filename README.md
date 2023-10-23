@@ -12,8 +12,6 @@ Current Projects
 
 - soon (tm)
 
-Learning Never Stops
-
 Let's connect and build the future together, one commit at a time! 
 
 Happy coding!
