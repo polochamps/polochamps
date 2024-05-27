@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! I'm Paulo, a passionate BS IT Network and Cybersecurity student based in Manila, Philippines. Welcome to my digital hideaway, where I explore the constantly changing world of Information Technology and share my experiences through code and projects.
+Hello there! I'm Paulo, a passionate BS IT Network and Cybersecurity student based in Manila, Philippines. Welcome to my digital hideaway, where I explore the changing world of Information Technology and share my experiences through code and projects.
 
 What I'm Into
 
