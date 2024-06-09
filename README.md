@@ -15,3 +15,6 @@ Current Projects
 Let's connect and build the future together, one commit at a time! 
 
 Happy coding!
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polochamps&theme=tokyonight)
