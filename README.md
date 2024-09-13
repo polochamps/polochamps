@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Paulo, a BS IT Network and Cybersecurity student from Manila. Welcome to my space where I explore and share my IT journey through code and projects.
+Hello! I'm Paulo, a BS IT student specializing in Software Development from Manila. Welcome to my space where I explore and share my IT journey through code and projects.
 
 What I'm Into
 
