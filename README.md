@@ -4,7 +4,7 @@ Hello! I'm Paulo, a BS IT student specializing in Software Development from Mani
 
 What I'm Into
 
-- **Studying:** Focused on network and cybersecurity at [Mapúa Malayan Digital College](https://www.mmdc.mcl.edu.ph/)
+- **Studying:** Focused on software development at [Mapúa Malayan Digital College](https://www.mmdc.mcl.edu.ph/)
 - **Learning Java:** Currently diving into Java programming.
 - **Blogging:** Coming soon—my blog with insights, project experiences, and IT tips.
 
